@@ -1,6 +1,6 @@
 # journex
 
-A new Flutter project.
+https://journex-ramisha.vercel.app/
 
 ## Getting Started
 
