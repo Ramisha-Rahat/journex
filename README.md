@@ -2,15 +2,32 @@
 
 https://journex-ramisha.vercel.app/
 
-## Getting Started
+# 📝 Journex — Journal + Expense Tracker
 
-This project is a starting point for a Flutter application.
+**Journex** is a dual-purpose productivity app that combines a clean daily journal with a smart expense tracker — helping users reflect on their day and manage their finances side by side.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📝 Journal Module
+- Add daily entries with a title, description, and date
+- Scrollable list of journal entries (stored locally)
+- Tap to view, edit, or delete entries
+- Dark mode supported
+
+### 💸 Expense Tracker
+- Track multiple wallets (Cash, Bank, EasyPaisa, etc.)
+- Add income or expense transactions with note, amount, date
+- View daily expense summary
+- Real-time wallet balance updates
+- Horizontal scrollable wallets
+
+---
+
+## 📱 Tech Stack
+
+- **Flutter** for UI (cross-platform mobile/web)
+- **Provider** for state management
+- **Hive** for offline-first local data storage
+- **MVVM** architecture for clean code separation
